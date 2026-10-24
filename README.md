@@ -9,8 +9,8 @@
 [Research repository](https://github.com/yihaohu0118/Trajectory2Gym)
 
 This repository contains the static project website, manuscript PDF, and
-presentation assets only. **Implementation code is not yet released.**
-The separate research repository is currently empty.
+presentation assets only. The implementation, training scripts, examples, and
+tests are available in the separate [research repository](https://github.com/yihaohu0118/Trajectory2Gym).
 
 ## Website
 
